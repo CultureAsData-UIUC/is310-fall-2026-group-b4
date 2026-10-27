@@ -15,6 +15,17 @@
 ### Next Steps
 - We'll start thinking about our intiial datasets and come back Thursday with ideas. 
 
+## 2026-10-20
+
+### What We Worked On
+- We narrowed our topic of interest. We successfully have chosen our sub-topics per member.
+
+### Contributions
+- Eric Campos: Typed the Markdown file.
+- Jaylin Chen: Contributed through discussion.
+- Ben Taylor: Contributed through discussion.
+- Britany Olaleye: Contributed through discussion.
+
 ## 2026-10-27
 
 ### What We Worked On
@@ -27,7 +38,7 @@
 - We were not aware that we had to update this group work log every meeting.
 - Since September, we have narrowed our topic of interest, chosen topics, and created early datasets. 
 
-### 
+### Contributions
 - Eric Campos: Updated the Markdown file.
 - Jaylin Chen: Contributed through discussing.
 - Ben Taylor: Contributed through discussing. 
