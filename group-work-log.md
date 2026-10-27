@@ -14,3 +14,20 @@
 
 ### Next Steps
 - We'll start thinking about our intiial datasets and come back Thursday with ideas. 
+
+## 2026-10-27
+
+### What We Worked On
+- We had very little to discuss. We discussed our dataset audits and updated each other.
+
+### Decisions
+- No major decisions were made today.
+
+### Notes
+- We were not aware that we had to update this group work log every meeting.
+- Since September, we have narrowed our topic of interest, chosen topics, and created early datasets. 
+
+### 
+- Eric Campos: Updated the Markdown file.
+- Jaylin Chen: Contributed through discussing.
+- Ben Taylor: Contributed through discussing. 
