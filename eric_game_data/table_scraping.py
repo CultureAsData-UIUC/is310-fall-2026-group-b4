@@ -75,10 +75,12 @@ def clean_data(list):
 def separate_columns(list):
     job_titles = divide_data(list, 0)
     salaries = divide_data(list, 1)
+    fixed_salary = fix_salary(salaries)
     locations = divide_data(list, 2)
     starting_dates = divide_data(list, 3)
+    years = get_year(starting_dates)
     
-    return job_titles, salaries, locations, starting_dates
+    return job_titles, fixed_salary, locations, starting_dates, years
     
 
 # takes a list of lists. separates the data in each individual list. 
@@ -89,37 +91,56 @@ def divide_data(list, choice):
         return_list.append(item)
     return return_list
 
+# takes a list of starting dates. looks at the last 4 characters of each string, and returns a list of years. xx/xx/xxxx 
+def get_year(list):
+    year_list = []
+    for element in list:
+        year = element[-4:]
+        year_list.append(year)
+    return year_list
+
+# the list of salaries we get are strings. we need to convert them to integers. takes a list of salaries
+def fix_salary(list):
+    salary_list = []
+    for element in list:
+        salary = element.replace(",", "")
+        salary_list.append(int(salary))
+    return salary_list
+
 def main():
 
-    tempList = scrape_table("https://h1bdata.info/index.php?em=+rockstar+games&job=&city=&year=all+years", "ROCKSTAR GAMES INC")
+    tempList = scrape_table("https://h1bdata.info/index.php?em=rockstar+games+inc&job=&city=&year=all+years", "ROCKSTAR GAMES INC")
     print(tempList)
     tempList = clean_data(tempList)
 
-    job_list, salary_list, location_list, start_date_list = separate_columns(tempList)
+    job_list, salary_list, location_list, start_date_list, year_list = separate_columns(tempList)
 
     print(job_list)
     print(salary_list)
     print(location_list)
     print(start_date_list)
+    print(year_list)
 
     complete_epic_table = []
-    
-    for job, salary, local, date in zip(
+
+    for job, salary, local, date, year in zip(
         job_list,
         salary_list,
         location_list,
-        start_date_list
+        start_date_list,
+        year_list
     ):
         complete_epic_table.append(
             {
                 "Job Title": job,
                 "Salary": salary,
                 "Location": local,
-                "Starting Date": date
+                "Starting Date": date,
+                "Year": year
             }
         )
 
-    fieldNames = ["Job Title", "Salary", "Location", "Starting Date"]
+    fieldNames = ["Job Title", "Salary", "Location", "Starting Date", "Year"]
     with open("RockstarGames.csv", mode="w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldNames)
         writer.writeheader()
