@@ -46,6 +46,9 @@ Eric N. Bailey, in an investigation of gender composition in game development, n
 
 Survey data in regards to wage discrimination is not new or novel, but finding data in regards to their job categories can empower people to advocate for oneself. While this investigation seeks to find wage discrimination in the games industry, it is ultimately meant to help people fight for better salaries based on their job title/category. 
 
+# Reflection
+So far the collection of data went smoothly. The actual methods to investigate the research question will be ironed out later in the semester. However, we should be poised to effectively answering and visualizing the research question.
+
 
 # References
 
