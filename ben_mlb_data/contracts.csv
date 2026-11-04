@@ -1,0 +1,56 @@
+id,player,pos,age,team_2024,new_team,contract_years,total_value_usd_m,aav_usd_m,war_2024,war_type,games_2024,pa_or_ip_2024,obp_2024,ops_2024,hr_2024,so_2024,era_2024,sv_2024,source_id,nationality
+FA001,Juan Soto,RF,25,NYY,New York Mets,15,765.0,51.0,8.0,batting,157,713,0.419,0.989,41,119,,,BLEACHER,Dominican
+FA002,Max Fried,SP,30,ATL,New York Yankees,8,218.0,27.25,3.5,pitching,29,174.1,,,13,166,3.25,0,BLEACHER,American
+FA003,Corbin Burnes,SP,29,BAL,Arizona Diamondbacks,6,210.0,35.0,3.9,pitching,32,194.1,,,22,181,2.92,0,BLEACHER,American
+FA004,Willy Adames,SS,28,MIL,San Francisco Giants,7,182.0,26.0,3.2,batting,161,688,0.331,0.794,32,173,,,BLEACHER,Dominican
+FA005,Blake Snell,SP,31,SFG,Los Angeles Dodgers,5,182.0,36.4,2.2,pitching,20,104.0,,,6,145,3.12,0,BLEACHER,American
+FA006,Alex Bregman,3B,30,HOU,Boston Red Sox,3,120.0,40.0,4.0,batting,145,634,0.315,0.768,26,86,,,BLEACHER,American
+FA007,Sean Manaea,SP,32,NYM,New York Mets,3,75.0,25.0,2.9,pitching,32,181.2,,,21,184,3.47,0,BLEACHER,American
+FA008,Tommy Edman,CF,29,LAD,Los Angeles Dodgers,5,74.0,14.8,0.9,batting,37,153,0.294,0.711,6,30,,,BLEACHER,American
+FA009,Luis Severino,SP,30,NYM,Athletics,3,67.0,22.33,1.7,pitching,31,182.0,,,23,161,3.91,0,BLEACHER,Dominican
+FA010,Teoscar Hernández,LF,31,LAD,Los Angeles Dodgers,3,66.0,22.0,4.1,batting,154,652,0.339,0.840,33,188,,,BLEACHER,Dominican
+FA011,Yusei Kikuchi,SP,33,2TM,Los Angeles Angels,3,63.0,21.0,1.6,pitching,32,175.2,,,25,206,4.05,0,BLEACHER,Japanese
+FA012,Brent Rooker,DH,29,OAK,Athletics,5,60.0,12.0,5.6,batting,145,614,0.365,0.927,39,177,,,BLEACHER,American
+FA013,Nick Pivetta,SP,31,BOS,San Diego Padres,4,55.0,13.75,1.5,pitching,27,145.2,,,28,172,4.14,0,BLEACHER,Canadian
+FA014,Michael Wacha,SP,32,KCR,Kansas City Royals,3,51.0,17.0,3.1,pitching,29,166.2,,,17,145,3.35,0,BLEACHER,American
+FA015,Tyler O'Neill,LF,29,BOS,Baltimore Orioles,3,49.5,16.5,2.9,batting,113,473,0.336,0.847,31,159,,,BLEACHER,Canadian
+FA016,Clay Holmes,RP,31,NYY,New York Mets,3,38.0,12.67,0.6,pitching,67,63.0,,,4,68,3.14,30,BLEACHER,American
+FA017,Joc Pederson,DH,32,ARI,Texas Rangers,2,37.0,18.5,2.8,batting,132,449,0.393,0.908,23,105,,,BLEACHER,American
+FA018,Nathan Eovaldi,SP,34,TEX,Texas Rangers,3,75,25,1.8,pitching,29,170.2,,,23,166,3.80,0,BLEACHER,American
+FA019,Frankie Montas,SP,31,2TM,New York Mets,2,34.0,17.0,0.6,pitching,30,150.2,,,24,148,4.84,0,BLEACHER,Dominican
+FA020,Matthew Boyd,SP,33,CLE,Chicago Cubs,2,29.0,14.5,0.7,pitching,8,39.2,,,4,46,2.72,0,BLEACHER,American
+FA021,Blake Treinen,RP,36,LAD,Los Angeles Dodgers,2,22.0,11.0,1.6,pitching,50,46.2,,,5,56,1.93,1,BLEACHER,American
+FA022,Walker Buehler,SP,29,LAD,Boston Red Sox,1,21.05,21.05,-1.1,pitching,16,75.1,,,16,64,5.38,0,BLEACHER,American
+FA023,Patrick Sandoval,SP,27,LAA,Boston Red Sox,2,18.25,9.12,0.0,pitching,16,79.2,,,8,81,5.08,0,BLEACHER,Mexican-American
+FA024,Michael Conforto,LF,31,SFG,Los Angeles Dodgers,1,17.0,17.0,1.3,batting,130,488,0.309,0.759,20,118,,,BLEACHER,American
+FA025,Charlie Morton,SP,40,ATL,Baltimore Orioles,1,15.0,15,1.1,pitching,30,165.1,,,23,167,4.19,0,BLEACHER,American
+FA026,Gleyber Torres,2B,27,NYY,Detroit Tigers,1,15.0,15.0,1.9,batting,154,665,0.330,0.709,15,136,,,BLEACHER,Venezuelan
+FA027,Yimi Garcia,RP,33,2TM,Toronto Blue Jays,2,15.0,7.5,0.5,pitching,39,39.0,,,6,49,3.46,5,BLEACHER,Dominican
+FA028,Shane Bieber,SP,29,CLE,Cleveland Guardians,1,14.0,14.0,0.7,pitching,2,12.0,,,0,20,0.00,0,BLEACHER,American
+FA029,Tomoyuki Sugano,SP,35,NPB,Baltimore Orioles,1,13.0,13.0,,,,,,,,,,,BLEACHER,Japanese
+FA030,Paul Goldschmidt,1B,36,STL,New York Yankees,1,12.5,12.5,1.4,batting,154,654,0.302,0.716,22,173,,,BLEACHER,American
+FA031,Carlos Santana,1B,38,MIN,Cleveland Guardians,1,12.0,12.0,2.5,batting,150,594,0.328,0.749,23,99,,,BLEACHER,Mexican
+FA032,Travis d'Arnaud,C,35,ATL,Los Angeles Angels,2,12.0,6.0,1.1,batting,99,341,0.302,0.739,15,89,,,BLEACHER,American
+FA033,Aroldis Chapman,RP,36,PIT,Boston Red Sox,1,10.75,10.75,0.4,pitching,68,61.2,,,5,98,3.79,14,BLEACHER,Cuban-American
+FA034,Max Kepler,RF,31,MIN,Philadelphia Phillies,1,10.0,10,1.0,batting,105,399,0.302,0.682,8,80,,,BLEACHER,German
+FA035,Jordan Romano,RP,31,TOR,Philadelphia Phillies,1,8.5,8.5,-0.3,pitching,15,13.2,,,4,13,6.59,8,BLEACHER,Canadian
+FA036,Gary Sánchez,DH,31,MIL,Baltimore Orioles,1,8.5,8.5,0.2,batting,89,280,0.307,0.699,11,76,,,BLEACHER,Dominican
+FA037,Danny Jansen,C,29,2TM,Tampa Bay Rays,1,8.5,8.5,0.7,batting,92,324,0.309,0.658,9,61,,,BLEACHER,American
+FA038,Josh Bell,1B,31,2TM,Washington Nationals,1,6.0,6,-0.3,batting,145,603,0.319,0.725,19,120,,,BLEACHER,American
+FA039,Thairo Estrada,2B,28,SFG,Colorado Rockies,1,3.25,3.25,-0.6,batting,96,381,0.247,0.590,9,76,,,BLEACHER,Venezuelan
+FA040,Kevin Newman,SS,30,ARI,Los Angeles Angels,1,2.5,2.5,2.2,batting,111,311,0.311,0.686,3,48,,,BLEACHER,American
+FA041,Kyle Hendricks,SP,34,CHC,Los Angeles Angels,1,2.5,2.5,-1.5,pitching,29,130.2,,,21,87,5.92,0,BLEACHER,American
+FA042,Justin Turner,DH,39,2TM,Chicago Cubs,1,6,6,1.4,batting,139,539,0.354,0.737,11,95,,,BLEACHER,American
+FA043,Hye-seong Kim,UTL,26,KBO,Los Angeles Dodgers,3,12.5,4.167,,,,,,,,,,,HAND,South Korean
+FA044,Josh Rojas,UTL,31,SEA,Chicago White Sox,1,3.5,3.5,2.2,batting,143,422,0.304,0.640,8,108,,,HAND,American
+FA045,Joe Ross,RP,31,MIL,Philadelphia Phillies,1,4,4,0.5,pitching,25,74.0,,,7,66,3.77,0,HAND,American
+FA046,Eloy Jiménez,DH,27,2TM,Tampa Bay Rays,1,2,2,-0.8,batting,98,349,0.289,0.626,6,70,,,HAND,Dominican
+FA047,Andrew McCutchen,DH,37,PIT,Pittsburgh Pirates,1,5,5,0.9,batting,120,515,0.328,0.739,20,133,,,HAND,American
+FA048,Christian Walker,1B,33,ARI,Houston Astros,3,60,20,2.5,batting,130,552,0.335,0.803,26,133,,,HAND,American
+FA049,Gio Urshela,3B,32,2TM,Athletics,1,2.15,2.15,0.6,batting,128,461,0.286,0.647,9,72,,,HAND,Colombian
+FA050,Brandon Waddell,RP,31,FA,New York Mets,1,0.76,0.76,,,,,,,,,,,HAND,American
+FA051,Jonathan Loáisiga,RP,29,NYY,New York Yankees,1,5,5,0.3,pitching,3,4.0,,,0,3,0.00,0,HAND,Nicaraguan
+FA052,Mike Tauchman,RF,33,CHC,Chicago White Sox,1,1.95,1.95,0.6,batting,109,350,0.357,0.723,7,70,,,HAND,American
+FA053,Alex Cobb,SP,36,CLE,Detroit Tigers,1,15,15,0.2,pitching,3,16.1,,,1,10,2.76,0,HAND,American
+FA054,Adrian Houser,RP,31,NYM,San Francisco Giants,2,22,11,-0.9,pitching,23,69.1,,,8,45,5.84,1,HAND,American
+FA055,Kyle Higashioka,C,34,SDP,Texas Rangers,2,13.5,6.75,1.4,batting,84,263,0.263,0.739,17,74,,,HAND,American
